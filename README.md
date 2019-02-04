@@ -1,1 +1,3 @@
-# HiWorld
+# maven-project
+
+Simple Maven Project
