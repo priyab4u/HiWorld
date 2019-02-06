@@ -1,5 +1,5 @@
-<h1> Welcome to DevOps !!! Hey !!
+<h1> Welcome to DevOps !!! 
   This is my first HelloWorld Project !!
-  Hey Hey !!
+  Completed my Git, Maven, Jenkins, Dockers !!
 </h1>
 
